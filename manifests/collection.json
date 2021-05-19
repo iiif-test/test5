@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://iiif-test.github.io/test5/manifests/manifest2.json",
     "label" : "Glen's fantastic March 2021 Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://iiif-test.github.io/test5/manifests/manifest3.json",
+    "label" : "Glen's fantastic March 2021 Manifest"
   } ]
 }
