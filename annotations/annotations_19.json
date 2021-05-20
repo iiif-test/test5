@@ -1,0 +1,2489 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://iiif-test.github.io/test5/annotations/annotations_19.json",
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=272,1142,0,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xxI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=194,1244,50,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=220,1338,24,42",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=220,1438,26,38",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xT"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=194,1528,16,40",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : ". xYI.xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=80,1706,172,46",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XYI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=198,1810,54,38",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "X"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=208,1904,0,38",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "x. xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=92,1992,160,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xYI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=200,2280,54,36",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "I"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=248,2378,4,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Y1"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=248,2472,22,34",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XXIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=194,2564,82,34",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XIV. XxIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=96,2656,178,38",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "YII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=236,2750,38,36",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : ".xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=80,2840,188,40",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=208,2944,66,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=220,3038,54,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=220,3224,28,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIII. Y"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=84,3314,150,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Wac"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=0,3394,80,46",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=214,3502,56,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xxI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=216,3596,52,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=220,3688,106,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=216,3782,32,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=218,3874,30,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=214,3968,32,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Yl"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=226,4058,44,40",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xYI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=210,4152,52,34",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=212,4246,56,34",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=212,4338,56,34",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=216,4430,54,34",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIN, xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=80,4524,168,46",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xl"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=216,4616,48,38",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=214,4712,32,36",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=218,4990,50,38",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : ". xIy. xIY"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=0,5084,254,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : ". xxil"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=54,5176,204,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : ".YVIl"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=60,5268,204,56",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : ". xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=62,5362,182,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xYI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=212,5454,52,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : ". xl"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=58,5546,204,62",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "iAI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=374,5850,18,48",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Huntly, Earl of"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=568,1080,362,60",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Hurry, General, defeated."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=566,1170,724,62",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Ian beag Gordon."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=564,1356,474,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "- du', chief of the Clan Allaster"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=574,1448,806,52",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "- garbh, of Lochnell"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=604,1540,496,56",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "- lom, celebrated bard"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=576,1632,572,52",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "I N DE X OF P E R S O N s."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1700,890,684,38",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Part."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1698,1006,70,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XIII. xXVI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1546,1096,222,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "VII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1722,1374,50,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Xv"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1724,1466,32,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xvI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1708,1648,66,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "-- Mac Leod, mhie Ghillie Challum. xnI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=576,1726,1198,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "- Muidartach-Mac Donald."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=578,1820,828,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "- nan Chaisteal."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=580,1912,462,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "- nan Chreagan"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=580,2004,404,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Innes, Cosmo, Esquire, advocnte"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=570,2096,784,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "- of Innes"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=580,2188,336,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Iniskillen, Earls of."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=568,2280,476,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Inverettie, Laird of."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=572,2374,586,52",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Isles, Lords of"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=574,2464,334,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Ivor, Clan"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=576,2556,214,52",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "James IL., King"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=572,2740,336,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "- II., King"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=588,2832,356,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "--- V., King."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=586,2924,454,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "--- his bonnet piece."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=582,3016,834,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xV1"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1704,1834,70,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIY"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1706,1926,54,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIY"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1706,2018,54,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1714,2294,38,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xxII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1690,2386,86,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xXIII. xIV"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1532,2752,238,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : ". xvI. xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1538,2938,218,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XX"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1732,3030,34,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "James VI., King xV. xVII. xx- xxIII. xxI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=574,3106,1180,60",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "John MCoull cheire, of Clan Gregor. xvnII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=576,3198,1212,60",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Kambel, the old orthography"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=580,3382,668,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Keppach, Mac Donald of"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=580,3474,592,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Ker, Lord Robert."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=580,3566,468,50",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Kilbride, manuseripts."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=576,3656,590,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Kildun, Laird of."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=580,3748,474,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Kinchoil, Mac Bean of."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=578,3838,582,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Kintail, Baron of."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=580,3930,462,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lamond, Clan"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=588,4298,304,68",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xvII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1692,3580,90,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1708,3670,74,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xvII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1694,3854,86,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XXIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1676,3944,106,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lachlan, Chief of the Mac Intoshes"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=586,4114,830,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lachlan Cattanach, of Dnart."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=592,4204,736,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1710,3398,78,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "x"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1738,4128,0,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1704,4310,84,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lavernani at the Battle of the Standard xvn"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=592,4388,1176,46",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lesley of Findrassie"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=594,4478,442,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "-- General, defeats Montrose"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=574,4572,820,52",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lindsay, Lady Sophia,"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=588,4656,526,66",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Loarn, Mac Erc"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=586,4756,370,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lochau, Barons of."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=592,4848,514,52",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lochiel, his standard-bearers"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=592,4938,668,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lochow, Duncan, Lord of."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=596,5030,698,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Logans of Idbury"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=596,5122,382,56",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lords of the Articles."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=598,5212,560,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lorn, Lords of"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=598,5302,330,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1718,4584,38,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1710,4676,78,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1708,4950,78,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=1710,5314,78,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Loudon Highlanders"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2362,1084,464,62",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Loup, Laird of"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2358,1180,340,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lovat, Lord"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2364,1270,276,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Allaster of Loup."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2352,1636,596,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mae Arailt, of the Weset Isles"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2352,1726,718,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Arthur, the Clan."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2354,1816,582,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mae Cruimin"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2354,1908,286,46",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Challain M6r"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2356,2000,426,46",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xxIN"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3456,1094,86,34",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIN. xVII, XXII. XXIII. xXI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2916,1280,610,34",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Alpin, Kenneth, first king of all"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2350,1438,882,74",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Scotland"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2470,1546,186,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Part."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3486,1010,70,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Dhonuill, Alasdai"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2356,2092,536,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xVIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3452,1554,102,60",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XVII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3472,1736,86,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3486,1826,78,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XYII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3474,1918,86,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XV"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3514,2010,30,42",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "- of Ceann Lochmuidart. xIV"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2346,2182,1210,46",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Donald of Glengarry"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2358,2276,602,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "--- of Glenaladale"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2350,2368,646,42",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "--- Sir James of the Isles"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2350,2448,822,74",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "--s of Keppach"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2352,2548,576,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "-- of UIster."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2352,2642,580,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "- of Tierndrish"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2352,2730,604,46",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Dugal of Lorn."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2358,2824,526,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "--- Clan, in Lorn"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2352,2914,620,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "------- OChahe"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2352,3006,722,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Ghillie Chriosd, Dunean"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2358,3098,690,52",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Ghilliegorm Logan"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2356,3190,556,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mae Ghillie Onies, tribe of"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2358,3280,642,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Glasrichs of Lochaber."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2358,3374,728,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Gregor of Glenstrae"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2356,3466,592,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "---- the Clan"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2348,3558,496,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Guarans of Ireland"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2358,3648,568,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Guires of Ireland"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2360,3740,538,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mae Intire, Dunean, a bard"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2360,3832,650,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Intosh, the Chief"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2362,3924,520,52",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "-- of Tirini."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2350,4014,592,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mackay, Clan of."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2360,4106,464,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xVII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3476,2284,84,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XIV"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3464,2376,88,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XYIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3464,2558,104,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xV. xx"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3338,2832,210,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Kinnon of Strath."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2356,4742,580,46",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "VI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3524,3014,40,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XxII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3472,3290,92,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xXII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3468,3474,86,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XVI. xXYIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3344,3564,222,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XIV"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3496,3840,54,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : ". xXIV. xxXII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3310,3932,254,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "-- John, chief, slain at Lairg"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2370,4376,822,56",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "-- of Suddie"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2370,4652,556,44",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3488,2924,78,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xXIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3456,3198,100,32",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "---- Donald, slain at Torran du."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2370,4284,962,56",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Kenzie, Sir George."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2358,4562,620,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3494,2650,38,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XXIY"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3466,2742,80,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "-- Angus, piper to Her Majesty."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2370,4194,962,62",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "--- Uisdean."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2372,4472,454,42",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xVI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3498,2466,64,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xXVI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3490,4114,68,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xVI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3494,4294,64,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xVI"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3494,4386,64,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XXII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3474,4570,88,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3486,4750,78,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "------- hereditary bowmen to X"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2368,4834,1140,56",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mae Labhrain, the baron"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2356,4928,580,52",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Lachlan of Craigentars."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2358,5018,716,58",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Lean, Clan, their feuds."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2358,5110,718,56",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "- Lachlan, of Duart."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2372,5202,818,54",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Mac Lennans, their origin"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=2356,5296,602,56",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xVIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3334,4932,228,36",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "XVII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3470,5120,86,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xXIII"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3448,5308,106,30",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "A.-- -,."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=4034,116,202,76",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "."
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=4180,168,0,48",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  }, {
+    "@type" : "oa:Annotation",
+    "motivation" : "sc:painting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "xsss"
+    },
+    "on" : "https://purl.stanford.edu/rd447dz7630/iiif/canvas/rd447dz7630_19#xywh=3940,5894,120,50",
+    "within" : {
+      "@id" : "https://purl.stanford.edu/rd447dz7630/iiif/manifest",
+      "@type" : "sc:Manifest"
+    }
+  } ]
+}
