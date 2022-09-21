@@ -13,5 +13,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://iiif-test.github.io/test5/manifests/manifest3.json",
     "label" : "Glen's fantastic March 2021 Manifest"
+  }, {
+    "id" : "https://iiif-test.github.io/test5/manifests/ManifestEditor.json",
+    "label" : {
+      "en" : [ "Blank Manifest" ]
+    },
+    "type" : "Manifest"
   } ]
 }
