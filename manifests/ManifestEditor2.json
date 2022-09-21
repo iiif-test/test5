@@ -1,0 +1,100 @@
+{
+  "@id" : "https://iiif-test.github.io/test5/manifests/ManifestEditor2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Blank Manifest",
+  "sequences" : [ {
+    "@id" : "https://example.org/95e4d417-f958-4394-8a12-3f576d95f40d/sequence0",
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://example.org/canvas/48d03983-d911-408e-a51d-e7488c78a657",
+      "@type" : "sc:Canvas",
+      "height" : 3024,
+      "width" : 4032,
+      "label" : "Victoria",
+      "images" : [ {
+        "@id" : "https://example.org/canvas/48d03983-d911-408e-a51d-e7488c78a657/painting",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://example.org/canvas/48d03983-d911-408e-a51d-e7488c78a657",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-8664_202009/info.json",
+          "@type" : "dctypes:Image",
+          "height" : 3024,
+          "width" : 4032,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-8664_202009",
+            "height" : 3024,
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ],
+            "protocol" : "http://iiif.io/api/image",
+            "tiles" : [ {
+              "scaleFactors" : [ 1, 2, 4, 8, 16 ],
+              "width" : 256,
+              "height" : 256
+            } ],
+            "width" : 4032,
+            "type" : "ImageService",
+            "id" : "https://iiif.archivelab.org/iiif/img-8664_202009"
+          }
+        }
+      } ]
+    }, {
+      "@id" : "https://example.org/canvas/b1c9af04-97c6-4232-8b7f-d313e5b44552",
+      "@type" : "sc:Canvas",
+      "height" : 3024,
+      "width" : 4032,
+      "label" : "Field\n",
+      "thumbnail" : {
+        "@id" : "https://iiif-test.github.io/Jan2022/images/IMG_9069/full/1008,/0/default.jpg",
+        "@type" : "dctypes:Image"
+      },
+      "images" : [ {
+        "@id" : "https://example.org/canvas/b1c9af04-97c6-4232-8b7f-d313e5b44552/painting",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://example.org/canvas/b1c9af04-97c6-4232-8b7f-d313e5b44552",
+        "resource" : {
+          "@id" : "https://iiif-test.github.io/Jan2022/images/IMG_9069/info.json",
+          "@type" : "dctypes:Image",
+          "height" : 3024,
+          "width" : 4032,
+          "service" : {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 95
+            }, {
+              "width" : 252,
+              "height" : 189
+            }, {
+              "width" : 504,
+              "height" : 378
+            }, {
+              "width" : 1008,
+              "height" : 756
+            }, {
+              "width" : 2016,
+              "height" : 1512
+            }, {
+              "width" : 4032,
+              "height" : 3024
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4032,
+            "@id" : "https://iiif-test.github.io/Jan2022/images/IMG_9069",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3024,
+            "type" : "ImageService",
+            "id" : "https://iiif-test.github.io/Jan2022/images/IMG_9069"
+          }
+        }
+      } ]
+    } ]
+  } ],
+  "structures" : [ ]
+}
