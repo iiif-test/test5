@@ -1,0 +1,38 @@
+{
+  "id" : "https://iiif-test.github.io/test5/manifests/ManifestEditor.json",
+  "type" : "Manifest",
+  "annotations" : [ ],
+  "behavior" : [ ],
+  "homepage" : [ ],
+  "items" : [ {
+    "id" : "https://example.org/canvas/48d03983-d911-408e-a51d-e7488c78a657",
+    "type" : "Canvas"
+  }, {
+    "id" : "https://example.org/canvas/b1c9af04-97c6-4232-8b7f-d313e5b44552",
+    "type" : "Canvas"
+  } ],
+  "label" : {
+    "en" : [ "Blank Manifest" ]
+  },
+  "logo" : [ ],
+  "metadata" : [ ],
+  "motivation" : null,
+  "navDate" : null,
+  "provider" : [ ],
+  "partOf" : [ ],
+  "posterCanvas" : null,
+  "accompanyingCanvas" : null,
+  "placeholderCanvas" : null,
+  "rendering" : [ ],
+  "requiredStatement" : null,
+  "rights" : null,
+  "seeAlso" : [ ],
+  "service" : [ ],
+  "services" : [ ],
+  "start" : null,
+  "structures" : [ ],
+  "summary" : null,
+  "thumbnail" : [ ],
+  "viewingDirection" : "left-to-right",
+  "@context" : "http://iiif.io/api/presentation/3/context.json"
+}
