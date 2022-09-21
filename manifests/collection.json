@@ -19,5 +19,9 @@
       "en" : [ "Blank Manifest" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://iiif-test.github.io/test5/manifests/ManifestEditor2.json",
+    "label" : "Blank Manifest"
   } ]
 }
