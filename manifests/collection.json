@@ -23,5 +23,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://iiif-test.github.io/test5/manifests/ManifestEditor2.json",
     "label" : "Blank Manifest"
+  }, {
+    "id" : "https://iiif-test.github.io/test5/manifests/manifest-v3.json",
+    "label" : {
+      "en" : [ "Simplest Audio Example 1" ]
+    },
+    "type" : "Manifest"
   } ]
 }
